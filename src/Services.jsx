@@ -7,7 +7,7 @@ import { Button } from './styles/button';
  
   const Services = () => {
     const { services}  = useGlobalContext();
-    console.log(services);
+   
   
     return (
       <Wrapper className="section">
